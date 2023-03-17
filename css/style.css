@@ -1,0 +1,106 @@
+#principal {
+    background-color: #565a5d;
+}
+
+
+#titreCat {
+    font-family: 'Amatic SC', cursive;
+    color: rgb(245, 227, 227);
+    font-size: 75px;
+    margin-left: 40%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+
+span.titreChat2 {
+    text-align: center;
+}
+
+#logoChat {
+    margin-left: 65%;
+}
+
+#textIntro {
+    color: gainsboro;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    line-height: 50px;
+    text-indent: 25px;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
+
+#maruTitre{
+    font-family: 'Amatic SC', cursive;
+    color: rgb(245, 227, 227);
+    margin-left: 20%;
+    display: flex;
+    word-spacing : 25px;
+    font-size: 55px;
+}
+
+#imageDeMaru{
+    margin-left: 20%;
+}
+
+#maruTexte{
+    color: gainsboro;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    line-height: 50px;
+    text-indent: 25px;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
+
+#maruText2nd{
+    text-align: center;
+    font-style: italic;
+}
+
+#nyancatTitre{
+    font-family: 'Amatic SC', cursive;
+    color: rgb(245, 227, 227);
+    margin-left: 20%;
+    display: flex;
+    word-spacing : 25px;
+    font-size: 55px;
+}
+
+#nyancatImg{
+    margin-left: 20%;
+}
+
+#nyancatTexte{
+    color: gainsboro;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    line-height: 50px;
+    text-indent: 25px;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
+
+#nyancatOrigine{
+    font-family: 'Amatic SC', cursive;
+    color: rgb(245, 227, 227);
+    margin-left: 20%;
+    display: flex;
+    font-size: 55px;
+}
+
+#nyancatOrigineTexte{
+    color: gainsboro;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    line-height: 50px;
+    text-indent: 25px;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
